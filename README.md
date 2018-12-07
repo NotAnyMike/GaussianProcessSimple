@@ -1,6 +1,8 @@
 # Gaussian Processes Simple Examples
 
-This is taken from the course Machine Learning and Pattern Recognition from the University of Edinburgh, with professor Aian Murray. Support code is taken from the course CPSC540, professor Nando de Freitas when we was at UBC
+In **Explanation.ipynb** there is an small explanation of what is going on in order to sample and predict from the posterior distribution, in **LongerExample.ipynb** a more extrict example is given.
+
+Part of the code is taken from the course Machine Learning and Pattern Recognition from the University of Edinburgh, with professor Aian Murray. Support code is taken from the course CPSC540, professor Nando de Freitas when we was at UBC.
 
 This repo shows and exaplains how to get a general model of Gaussian Process, it shows how to sample from the prior:
 
